@@ -7,7 +7,7 @@ import Goals from './components/Goals';
 import ITExperience from './components/ITExperience';
 import PhotoGallery from './components/PhotoGallery';
 import Guestbook from './components/Guestbook';
-import bgVideo from './assets/videos/bgconception.mp4';
+import bgVideo from './assets/videos/bgConcepcion.mp4';
 import './App.css';
 
 function App() {
@@ -33,7 +33,7 @@ function App() {
           </Routes>
         </main>
         <footer className="footer">
-          © 2025 Joshua Conception. All rights reserved.
+          © 2025 Joshua Concepcion. All rights reserved.
         </footer>
       </div>
     </Router>

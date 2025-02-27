@@ -13,7 +13,7 @@ const Navbar = () => {
     <nav className={styles.navbar}>
       <div className={styles.container}>
         <div className={styles.logo}>
-          <NavLink to="/">ConceptionSpace</NavLink>
+          <NavLink to="/">ConcepcionSpace</NavLink>
         </div>
         
         <button 
